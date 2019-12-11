@@ -3,11 +3,11 @@ entries:
   druid-operator:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-12-11T11:41:40.090281+11:00
+    created: 2019-12-11T15:04:20.511796+11:00
     description: A Helm chart for Deploying a Druid Operator in Kubernetes
-    digest: 68382ea392b569cdbc660d464cd6432355c4ad81c28746a3d8abd088eb821380
+    digest: b693f616a6c8a3263af066a1c8213f56b30bdbd40a3e041b8da153ca391f816d
     name: druid-operator
     urls:
-    - druid-operator-0.1.0.tgz
+    - https://arihantsurana.github.io/helm-druid-operator/druid-operator-0.1.0.tgz
     version: 0.1.0
-generated: 2019-12-11T11:41:40.089129+11:00
+generated: 2019-12-11T15:04:20.508213+11:00
